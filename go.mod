@@ -18,7 +18,7 @@ require (
 	github.com/jenkins-x/jx/v2 v2.1.133
 	github.com/jenkins-x/lighthouse v0.0.758
 	github.com/jenkins-x/lighthouse-config v0.0.10 // indirect
-	github.com/pborman/uuid v1.2.0
+	github.com/pborman/uuid v1.2.1
 	github.com/pkg/errors v0.9.1
 	github.com/roboll/helmfile v0.125.7
 	github.com/rollout/rox-go v0.0.0-20181220111955-29ddae74a8c4
